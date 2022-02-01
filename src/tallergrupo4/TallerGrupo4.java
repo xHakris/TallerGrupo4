@@ -17,6 +17,9 @@ public class TallerGrupo4 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Taller en grupo");
+        Saludar sa = new Saludar();
+        System.out.println("sdsd");
+        
     }
     
 }
