@@ -17,16 +17,17 @@ public class TallerGrupo4 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Taller en grupo");
-<<<<<<< HEAD
+        
+
         
         Conexion con = new Conexion();
         
-        con.conectar();
-=======
+        //con.conectar();
+
         Saludar sa = new Saludar();
         System.out.println("sdsd");
         
->>>>>>> 786d0c3b6217c56856578af34ed130a1cc7daa33
+        
     }
     
 }
