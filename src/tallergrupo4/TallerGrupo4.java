@@ -25,8 +25,7 @@ public class TallerGrupo4 {
         //con.conectar();
 
         Saludar sa = new Saludar();
-        System.out.println("sdsd");
-        
+        System.out.println();
         
     }
     
