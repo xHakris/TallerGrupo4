@@ -5,10 +5,23 @@
  */
 package tallergrupo4;
 
+import java.sql.Connection;
+
 /**
  *
  * @author Hakris
  */
 public class Conexion {
     
+
+public class conexionUsuarios {
+    Connection connect = null;
+    
+    public void conectar(){
+        
+        System.out.println("Se ha conectado exitosamente");
+        
+    }
+}
+
 }
